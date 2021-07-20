@@ -1,0 +1,76 @@
+TD {
+        FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans serif
+}
+.menu {
+        FONT-WEIGHT: 300; FONT-SIZE: 14px; COLOR: white; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: none
+}
+.menu:hover {
+        FONT-WEIGHT: 300; FONT-SIZE: 14px; COLOR: white; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: underline
+}
+.mmenu {
+        FONT-WEIGHT: 300; FONT-SIZE: 10px; COLOR: maroon; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: none
+}
+.menu:hover {
+        FONT-WEIGHT: 300; FONT-SIZE: 14px; COLOR: #ceffff; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: underline
+}
+.pmenu {
+        FONT-WEIGHT: 300; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: underline
+}
+.pmenu:hover {
+        FONT-WEIGHT: 300; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: none
+}
+P {
+        FONT-SIZE: 12px; COLOR: #002244; TEXT-INDENT: 20px; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-ALIGN: justify
+}
+P.noindent {
+        TEXT-INDENT: 0px
+}
+.input {
+        BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #999999 1px solid; WIDTH: 132px; COLOR: #333333; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Arial; HEIGHT: 19px
+}
+TEXTAREA {
+        BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 399px; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 177px
+}
+TD {
+        FONT: 12px Arial Cyr, Arial, Helvetica
+}
+A {
+        COLOR: blue; TEXT-DECORATION: underline
+}
+A:hover {
+        COLOR: blue; TEXT-DECORATION: none
+}
+.q {
+        FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-ALIGN: justify
+}
+.o {
+        FONT-SIZE: 10px; COLOR: navy; FONT-FAMILY: verdana, arial, helvetica, sans serif
+}
+.new {
+        FONT-WEIGHT: 300; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: none
+}
+.grey {
+        FONT-SIZE: 11px; COLOR: gray; FONT-FAMILY: verdana, arial, helvetica, sans serif
+}
+.amenu {
+        FONT-SIZE: 14px; COLOR: navy; FONT-FAMILY: verdana, arial, helvetica, sans serif;
+TEXT-DECORATION: none
+}
+.amenu:hover {
+        FONT-WEIGHT: 300; FONT-SIZE: 14px; COLOR: navy; FONT-FAMILY: verdana, arial, helvetica, sans serif; TEXT-DECORATION: underline
+}
+.white {
+        FONT-SIZE: 11px; COLOR: white; FONT-FAMILY: verdana, arial, helvetica, sans serif
+}
+.small {
+        FONT-SIZE: 9px; COLOR: gray; FONT-FAMILY: verdana, arial, helvetica, sans serif
+}
+UL {
+        MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 25px
+}
+OL {
+        MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 25px
+}
+.but {
+        BACKGROUND: #e0e0e0; BORDER-BOTTOM: #ffffff 1px outset; BORDER-LEFT: #ffffff 1px outset; BORDER-RIGHT: #ffffff 1px outset; BORDER-TOP: #ffffff 1px outset; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
